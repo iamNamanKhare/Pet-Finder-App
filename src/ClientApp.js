@@ -5,4 +5,3 @@ import App from "./app";
 //only browser things
 
 hydrate(<App />, document.getElementById("root"));
-
